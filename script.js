@@ -29,7 +29,7 @@ const filmes = [
     },
     {
      id:4,
-     nome: 'A Lagoa Azul',
+     nome: 'Se ela dança eu danço 1',
      genero: 'romance',
      lancamento: 1983
 }]
